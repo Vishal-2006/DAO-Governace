@@ -53,7 +53,7 @@ The core innovation of this project is the link between the two contracts. Inste
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/Vishal-2006/staking-governance-demo.git](https://github.com/Vishal-2006/staking-governance-demo.git)
+    git clone [link]
     ```
 2.  **Open in Remix:**
     Load the files into [Remix IDE](https://remix.ethereum.org/).

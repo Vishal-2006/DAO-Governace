@@ -40,10 +40,12 @@ The core innovation of this project is the link between the two contracts. Inste
 ## 📸 Screenshots
 
 ### 1. Staking & Rewards Generation
-*(Add your screenshot showing rewards: 52000 here)*
+<img width="270" height="527" alt="image" src="https://github.com/user-attachments/assets/689042f4-0804-4753-8d27-28f52611d0e4" />
+
 
 ### 2. Governance Voting
-*(Add your screenshot showing yesVotes: 300 here)*
+<img width="272" height="690" alt="image" src="https://github.com/user-attachments/assets/1a8046b1-9c01-4c2e-9375-28b0db8e3d7a" />
+
 
 ---
 
@@ -75,8 +77,8 @@ The core innovation of this project is the link between the two contracts. Inste
 ## 🔗 Connect with Me
 
 * **Developer:** Vishal R B
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **GitHub:** [Your GitHub Profile Link]
+* **LinkedIn:** https://www.linkedin.com/in/vishal-r-b-52352b289/
+* **GitHub:** https://github.com/Vishal-2006
 
 ---
 *Built with 💙 for Web3*
